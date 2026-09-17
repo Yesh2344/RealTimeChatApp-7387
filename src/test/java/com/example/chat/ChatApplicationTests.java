@@ -1,0 +1,16 @@
+package com.example.chat;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+/**
+ * Simple context load test.
+ */
+@SpringBootTest
+class ChatApplicationTests {
+
+    @Test
+    void contextLoads() {
+        // If the application context fails to load, this test will fail.
+    }
+}
