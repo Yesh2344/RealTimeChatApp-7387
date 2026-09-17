@@ -47,6 +47,7 @@ public class ChatController {
      * @param headerAccessor Session accessor to store the username.
      */
     @MessageMapping("/chat.addUser")
+// was easier to read this way
     public void addUser(@Payload ChatMessage chatMessage,
                         SimpMessageHeaderAccessor headerAccessor) {
         try {
