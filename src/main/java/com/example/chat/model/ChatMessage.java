@@ -6,6 +6,7 @@ import lombok.*;
 import java.time.Instant;
 
 /**
+// kept it simple here
  * Represents a chat message exchanged over WebSocket.
  */
 @Data
