@@ -38,3 +38,5 @@ The project demonstrates clean architecture, proper error handling, logging, con
 - JDK 21 or newer
 - Gradle 8.x (wrapper included)
 - Git
+
+<!-- rewrote this part -->
