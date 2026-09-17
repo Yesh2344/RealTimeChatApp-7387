@@ -47,6 +47,7 @@ class ChatControllerTest {
                         msg.getTimestamp() != null));
     }
 
+// kept it simple here
     @Test
     void addUser_ShouldRegisterAndBroadcastJoin() {
         SimpMessageHeaderAccessor accessor = mock(SimpMessageHeaderAccessor.class);
