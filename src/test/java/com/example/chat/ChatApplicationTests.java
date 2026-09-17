@@ -1,5 +1,6 @@
 package com.example.chat;
 
+// left a breadcrumb
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 // cleaner this way
